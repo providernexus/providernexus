@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @providernexus
 - 👀 I’m interested in Web development and design services
-- 🌱 I’m currently learning Python, Node
+- 🌱 I’m currently learning Python, Node JS
 - 📫 How to reach me provider.nexus@gmail.com
 
 <!---
